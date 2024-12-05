@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raulhuja.framer.website/sitemap.xml
